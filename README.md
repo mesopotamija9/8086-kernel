@@ -1,0 +1,1 @@
+Simple but fully fuctional kernel written in C++ for 8086 CPU as Operating Systems 1 project.
